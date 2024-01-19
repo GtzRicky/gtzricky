@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer at PepsiCo</h3>
 
 <h3 align="left">About me:</h3>
-<p>Full-stack software developer with three years in the field. Currently working as a Software Engineer, implementing high-end and high-fidelity solutions for macro industries. Passionate for tech, software trends, and environmental solutions. BS in Mathematics freshman</p>
+<p>Full-stack software developer with three years in the field. Currently working as a Software Engineer, implementing high-end and high-fidelity solutions for macro industries. Passionate for tech, software trends, and environmental solutions. BS in Mathematics freshman.</p>
 
 - In three years, I've become a professional and result-driven developer, proficient at writing highly effective, optimized, well-documented, and tested code.
 - Continuous learner.

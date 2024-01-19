@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Ricardo Gutierrez</h1>
 <h3 align="center">Software Engineer at PepsiCo</h3>
 
-<img align="right" width="50%" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80">
 <h3 align="left">About me:</h3>
 <p>Full-stack software developer with three years in the field. Currently working as a Software Engineer, implementing high-end and high-fidelity solutions for macro industries. Passionate for tech, software trends, and environmental solutions. BS in Mathematics freshman</p>
 
